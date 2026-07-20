@@ -1,5 +1,6 @@
 # SBI-biovagon
 The course of the Summer Bioinformatics Internship, has helped gain knowledge on the following topics during these terms:
+
 Term 1 : (first 5 days)
 DNA databases - NCBI, UCSC Genome Browser, Ensembl, Clinvar
 Usage of BLAST for finding homology for insulin sequence
