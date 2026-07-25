@@ -1,7 +1,7 @@
 # SBI-biovagon
 The course of the Summer Bioinformatics Internship, has helped gain knowledge on the following topics during these terms:
 
-# Term 1 : 
+# Term 1 : Databases
 
 DNA databases - NCBI, UCSC Genome Browser, Ensembl, Clinvar
 
@@ -13,7 +13,7 @@ Protein Databases - Uniprot, PDB, Interpro
 
 The term concluded with a project on DAY 5 which was a bioinformatic analysis on the resistance developed to the Gefitinib drug administered to patients having Non-small cell lung cancer, affected by a mutation in the gene synthesizing the Epidermal Growth Factor Receptor(EGFR).
 
-# Term 2 : 
+# Term 2 : NGS
 
 Various sequencing methods followed till date, and those preferred according to need
 
