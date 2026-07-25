@@ -1,4 +1,4 @@
-# SBI-biovagon
+## SBI-biovagon
 The course of the Summer Bioinformatics Internship, has helped gain knowledge on the following topics during these terms:
 
 # Term 1 : Databases
