@@ -4,18 +4,21 @@ Procedure
 2.	Identify the organism, the parent series (GSE) accession, and the experimental design
 3.	Determine which samples belong to which experimental condition
 
-Attach: GEO record screenshot for each accession
-For GSM461176:
-![GSM461176](../images/GSM461176.png)
+<h3>GSM461176</h3>
 
-For GSM461177:
-![GSM461177](../images/GSM461177.png)
+<img src="../images/GSM461176.png" width="500">
 
-For GSM461178:
-![GSM461178](../images/GSM461178.png)
+<h3>GSM461177</h3>
 
-For GSM461179:
-![GSM461179](../images/GSM461179.png)
+<img src="../images/GSM461177.png" width="500">
+
+<h3>GSM461178</h3>
+
+<img src="../images/GSM461178.png" width="500">
+
+<h3>GSM461179</h3>
+
+<img src="../images/GSM461179.png" width="500">
 
 # Dataset Summary
 
