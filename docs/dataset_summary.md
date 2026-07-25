@@ -6,13 +6,17 @@ Procedure
 
 Attach: GEO record screenshot for each accession
 For GSM461176:
-<img width="512" height="374" alt="image" src="https://github.com/user-attachments/assets/4fadb6d4-5a6a-4d40-8b8f-31d2cddbc6b4" />
+![GSM461176](../images/GSM461176.png)
+
 For GSM461177:
-<img width="413" height="293" alt="image" src="https://github.com/user-attachments/assets/b1b8a715-7361-4b99-8ed7-3be6e8e297fd" />
+![GSM461177](../images/GSM461177.png)
+
 For GSM461178:
- <img width="391" height="299" alt="image" src="https://github.com/user-attachments/assets/e01fae9d-a9d6-45da-9616-478c5cacd55d" />
+![GSM461178](../images/GSM461178.png)
+
 For GSM461179:
-<img width="403" height="310" alt="image" src="https://github.com/user-attachments/assets/3d7e2140-d131-4423-8898-ddadc1e8a64e" />
+![GSM461179](../images/GSM461179.png)
+
 # Dataset Summary
 
 | Field | Entry |
