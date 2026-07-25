@@ -1,9 +1,14 @@
-STAGE 1: DATASET CHARACTERIZATION
-Procedure
-1.	Navigate to NCBI GEO and locate each accession: GSM461176, GSM461177, GSM461178, GSM461179
-2.	Identify the organism, the parent series (GSE) accession, and the experimental design
-3.	Determine which samples belong to which experimental condition
+# Stage 1: Dataset Characterization
 
+## Procedure
+
+1. Navigate to **NCBI GEO** and locate each accession:
+   - GSM461176
+   - GSM461177
+   - GSM461178
+   - GSM461179
+2. Identify the organism, the parent series (**GSE**) accession, and the experimental design.
+3. Determine which samples belong to each experimental condition.
 <h3>GSM461176</h3>
 
 <img src="../images/GSM461176.png" width="500">
