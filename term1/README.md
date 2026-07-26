@@ -11,7 +11,7 @@ Top 3 hits were found to be isoforms or alternative splice variants of the same 
 
 Following the synthetic constructs, the first ortholog was that in Gorilla gorilla gorilla with a 98.8 % query cover. 
 
-Biological meaning behind results – the same INS gene produces multiple mRNA transcripts which are identical in their core coding exons but differ in their untranslated regions. Gorilla being the closest ortholog with a query cover of 100% and percentage identity of 98.8% shows a strong evolutionary relationship between Gorilla and Human.
+**Biological meaning behind results –** the same INS gene produces multiple mRNA transcripts which are identical in their core coding exons but differ in their untranslated regions. Gorilla being the closest ortholog with a query cover of 100% and percentage identity of 98.8% shows a strong evolutionary relationship between Gorilla and Human.
 
 
 ## Day 2:
