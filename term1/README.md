@@ -17,6 +17,17 @@ Biological meaning behind results – the same INS gene produces multiple mRNA t
 ## Day 2:
 ### Using DNA databases
 
+This exercise explored the genomic context of the human insulin (INS) gene by integrating genome annotation, genome browser visualization, and clinical variant information from multiple biological databases. 
+
+**Databases used:** Ensembl, UCSC Genome Browser, and NCBI ClinVar. 
+
+**Data used:** Human insulin (INS) gene was searched to find gene structure, genomic coordinates, neighboring genes, conservation tracks, and pathogenic variant records. 
+
+**Biological inferences:**
+- **Ensembl:** Identified the INS gene structure, genomic coordinates, transcript information, and exon organization. 
+- **UCSC Genome Browser:** Visualized the genomic neighborhood and conservation of the INS gene across species. 
+- **NCBI ClinVar:** Identified a pathogenic INS variant and interpreted its disease association and molecular consequence. 
+
 ## Day 3:
 ### RNA databases (primarily GEO)
 
