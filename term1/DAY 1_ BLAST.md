@@ -125,30 +125,6 @@ To compare similarity between species based on conservation of the gene and %ide
 
 ---
 
-# Exercise 4: GitHub Documentation
-
-**Objective:** Document your BLAST findings professionally.
-
-Write a brief README section (200-300 words) for your GitHub repository describing:
-
-- What sequence you searched
-- What BLAST program and database you used
-- Summary of top 3 hits
-- Key biological insights from the results
-
-## Your GitHub README Draft:
-
-Insulin CDS (coding sequence) of Homo sapiens was downloaded from NCBI.
-
-Nucleotide-nucleotide BLAST was performed (BLASTN) using NCBI’s BLAST, using 'nr/nt' as the database.
-
-Top 3 hits were found to be isoforms or alternative splice variants of the same gene in humans with a 100% query cover and percentage identity.
-
-Following the synthetic constructs, the first ortholog was that in Gorilla gorilla gorilla with a 98.8 % query cover.
-
-Biological meaning behind results – the same INS gene produces multiple mRNA transcripts which are identical in their core coding exons but differ in their untranslated regions. Gorilla being the closest ortholog with a query cover of 100% and percentage identity of 98.8% shows a strong evolutionary relationship between Gorilla and Human.
-
----
 
 # Reflection Questions
 
