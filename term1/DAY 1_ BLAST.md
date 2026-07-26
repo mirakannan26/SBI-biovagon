@@ -1,113 +1,157 @@
-# Day 1: BLAST – Basic Local Alignment Search Tool
+# BLAST: Basic Local Alignment Search Tool
 
-## Overview
+## Hands-On Workbook
 
-This exercise introduces the Basic Local Alignment Search Tool (BLAST) and demonstrates how sequence similarity searches can be used to identify homologous sequences, interpret evolutionary relationships, and document findings using GitHub.
+### Day 1 - Bioinformatics Internship 2026
 
 ## Learning Objectives
 
-- Understand what BLAST is and why it is important in bioinformatics.
-- Perform a BLAST search using the NCBI BLAST interface.
-- Interpret BLAST results using E-values, percentage identity, and bit scores.
-- Differentiate between orthologs and paralogs.
-- Document findings in a professional GitHub repository.
+- Understand what BLAST is and why it matters in bioinformatics
+- Perform a BLAST search using NCBI BLAST interface
+- Interpret BLAST results: E-values, identity %, bit scores
+- Identify and analyze orthologs and paralogs
+- Document findings in a professional GitHub repository
 
 ---
 
 # Exercise 1: Getting Started with NCBI BLAST
 
-## Objective
+**Objective:** Navigate NCBI BLAST and understand the interface.
 
-Navigate the NCBI BLAST interface and understand its components.
+## Part A: Access NCBI BLAST
 
-### Q1. What are the different BLAST programs available?
+Go to https://blast.ncbi.nlm.nih.gov/Blast.cgi and answer the following questions:
 
-**Answer**
+### Q1: What are the different BLAST programs available? List at least 4.
 
-- BLASTN
-- BLASTP
-- BLASTX
-- TBLASTN
-- TBLASTX
+**Answer:**
 
-### Q2. What is the default database used for nucleotide BLAST searches?
+blastn,blastp,blastx,tblastn,tblastx
 
-**Answer**
+### Q2: Name the default database used for nucleotide BLAST searches.
 
-NCBI nucleotide database (`nr/nt`)
+**Answer:**
+
+NCBI
 
 ---
 
-# Exercise 2: Human Insulin BLAST Search
+## Part B: E-value Interpretation Challenge
 
-## Objective
+Match each E-value to its interpretation:
 
-Search the human insulin coding sequence against the NCBI nucleotide database.
-
-## Query Sequence
-
-- **Gene:** INS (Human insulin)
-- **Sequence type:** Coding DNA Sequence (CDS)
-- **Length:** 333 bp
-
-### BLAST Search Parameters
-
-| Parameter | Value |
-|-----------|-------|
-| Program | BLASTN |
-| Database | nr/nt |
-| Query | Human INS CDS |
-
-### Question
-
-**What organism is the second match (after human)?**
-
-**Answer**
-
-*Gorilla gorilla gorilla*
+| E-value | Your Answer | Correct Answer |
+|---------|-------------|----------------|
+| 3e-45 | True homolog | High similarity |
+| 0.45 | Low significance | Low significance |
+| 0.003 | High similarity | True homolog |
 
 ---
 
-# Exercise 3: Interpretation of BLAST Results
+# Exercise 2: Run Your First BLAST Search
 
-## Top BLAST Hits
+**Objective:** Search the human insulin gene sequence against NCBI databases.
 
-| Hit | Organism | E-value | Identity (%) | Ortholog? |
-|------|----------|---------|--------------|-----------|
-| 1 | *Homo sapiens* (INS transcript variant 3) | 4e-171 | 100 | No |
-| 2 | *Homo sapiens* (INS transcript variant 4) | 4e-171 | 100 | No |
-| 3 | *Homo sapiens* (INS transcript variant 1) | 4e-171 | 100 | No |
+## Step 1: Get the Insulin Gene Sequence
 
-### Q1. Are the top three hits orthologs or paralogs?
+1. Go to NCBI Gene (https://www.ncbi.nlm.nih.gov/gene/)
+2. Search for: 'insulin human' or 'INS gene'
+3. Click on the first result (human insulin)
+4. Under 'FASTA sequences', click 'CDS FASTA' to get the protein-coding sequence
 
-**Answer**
+### Q1: What is the length (in base pairs) of the human insulin CDS?
 
-The top three hits represent transcript variants of the human INS gene. Since they originate from the same organism and correspond to alternative transcript variants of the same gene, they are not orthologs. They represent different transcript isoforms.
+**Answer:** 333bp
 
-### Q2. What does the high percentage identity indicate?
+### Human insulin CDS -
 
-**Answer**
+```fasta
+>lcl|AH002844.2_cds_AAA59172.1_1 [gene=INS] [db_xref=GDB:G00-119-349] [protein=insulin] [protein_id=AAA59172.1] [location=join(2424..2610,3397..3542)] [gbkey=CDS]
 
-The human insulin coding sequence is highly conserved.
+ATGGCCCTGTGGATGCGCCTCCTGCCCCTGCTGGCGCTGCTGGCCCTCTGGGGACCTGACCCAGCCGCAG
+CCTTTGTGAACCAACACCTGTGCGGCTCACACCTGGTGGAAGCTCTCTACCTAGTGTGCGGGGAACGAGG
+CTTCTTCTACACACCCAAGACCCGCCGGGAGGCAGAGGACCTGCAGGTGGGGCAGGTGGAGCTGGGCGGG
+GGCCCTGGTGCAGGCAGCCTGCAGCCCTTGGCCCTGGAGGGGTCCCTGCAGAAGCGTGGCATTGTGGAAC
+AATGCTGTACCAGCATCTGCTCCCTCTACCAGCTGGAGAACTACTGCAACTAG
+```
 
-### Q3. Why are these results biologically important?
+---
 
-**Answer**
+## Step 2: Set Up BLAST Search
 
-Highly conserved genes can be used to study evolutionary relationships between species, identify homologous genes, and understand how essential biological functions have been maintained throughout evolution.
+5. Copy the CDS sequence (FASTA format with sequence ID)
+6. Go to NCBI BLAST (https://blast.ncbi.nlm.nih.gov)
+7. Click 'BLASTN' (nucleotide-nucleotide BLAST)
+8. Paste your sequence in the 'Enter query sequence' box
+9. Keep database as 'nr/nt'
+
+### Q2: What organism is the second match (after human)?
+
+**Answer:** Gorilla gorilla gorilla
+
+---
+
+## Step 3: Interpret Your Results
+
+Complete the following table for the top 3 BLAST hits:
+
+| Hit # | Organism | E-value | Identity % | Ortholog? |
+|-------|----------|----------|------------|-----------|
+| 1 | Homo sapiens insulin (INS), transcript variant 3, mRNA | 4e-171 | 100 | none |
+| 2 | Homo sapiens insulin (INS), transcript variant 4, mRNA | 4e-171 | 100 | none |
+| 3 | Homo sapiens insulin (INS), transcript variant 1, mRNA | 4e-171 | 100 | none |
+
+---
+
+# Exercise 3: Analysis and Interpretation
+
+### Q1: Are the top 3 hits orthologs or paralogs of human insulin? Explain why.
+
+**Answer:**
+
+Paralogs as the 3 hits are variants of the same gene in the same organism and have different locus ids(on checking the individual accession ids). This indicates they have been duplicated during evolution.
+
+### Q2: What does the high identity % in the top hit tell us about conservation of the insulin sequence?
+
+**Answer:**
+
+It is highly conserved
+
+### Q3: Why would an evolutionary biologist be interested in these BLAST results?
+
+**Answer:**
+
+To compare similarity between species based on conservation of the gene and %identity and use that similarity to identify presence of metabolites and other gene products which may have been produced by older species. It can also be used to study phylogenetic relationships and compare ancient and more evolved organisms.
 
 ---
 
 # Exercise 4: GitHub Documentation
 
-## Repository Summary
+**Objective:** Document your BLAST findings professionally.
 
-The coding DNA sequence (CDS) of the human insulin (**INS**) gene was retrieved from NCBI Gene and analysed using **BLASTN** against the **NCBI nr/nt nucleotide database**. The top three BLAST matches corresponded to transcript variants of the human INS gene, each showing **100% sequence identity**, demonstrating strong conservation within the coding region. The closest non-human ortholog identified was *Gorilla gorilla gorilla*, exhibiting approximately **98.8% sequence identity**, highlighting the close evolutionary relationship between humans and gorillas.
+Write a brief README section (200-300 words) for your GitHub repository describing:
+
+- What sequence you searched
+- What BLAST program and database you used
+- Summary of top 3 hits
+- Key biological insights from the results
+
+## Your GitHub README Draft:
+
+Insulin CDS (coding sequence) of Homo sapiens was downloaded from NCBI.
+
+Nucleotide-nucleotide BLAST was performed (BLASTN) using NCBI’s BLAST, using 'nr/nt' as the database.
+
+Top 3 hits were found to be isoforms or alternative splice variants of the same gene in humans with a 100% query cover and percentage identity.
+
+Following the synthetic constructs, the first ortholog was that in Gorilla gorilla gorilla with a 98.8 % query cover.
+
+Biological meaning behind results – the same INS gene produces multiple mRNA transcripts which are identical in their core coding exons but differ in their untranslated regions. Gorilla being the closest ortholog with a query cover of 100% and percentage identity of 98.8% shows a strong evolutionary relationship between Gorilla and Human.
 
 ---
 
-# Reflection
+# Reflection Questions
 
-## What was the most surprising discovery?
+### What was the most surprising discovery from your BLAST results?
 
-The presence of multiple human insulin transcript variants with identical coding sequences and the high similarity between human and gorilla insulin genes illustrate the remarkable evolutionary conservation of this essential gene.
+That insulin had these many variants and they all showed a 100% similarity. Also the fact that Gorilla showed 98.8% similarity to human insulin, in a way indicating their evolutionary relationship.
