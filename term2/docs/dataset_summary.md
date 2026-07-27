@@ -12,19 +12,27 @@
 
 ### For GSM461176:
 
-<img src="images/GSM461176.png" width="900">
+<p align="center">
+  <img src="images/GEO_screenshots/GSM461176.png" width="900">
+</p>
 
 ### For GSM461177:
 
-<img src="images/GSM461177.png" width="900">
+<p align="center">
+  <img src="images/GEO_screenshots/GSM461177.png" width="900">
+</p>
 
 ### For GSM461178:
 
-<img src="images/GSM461178.png" width="900">
+<p align="center">
+  <img src="images/GEO_screenshots/GSM461178.png" width="900">
+</p>
 
 ### For GSM461179:
 
-<img src="images/GSM461179.png" width="900">
+<p align="center">
+  <img src="images/GEO_screenshots/GSM461179.png" width="900">
+</p>
 
 ---
 
