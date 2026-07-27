@@ -88,7 +88,11 @@ AATGCTGTACCAGCATCTGCTCCCTCTACCAGCTGGAGAACTACTGCAACTAG
 ### Q2: What organism is the second match (after human)?
 
 **Answer:** Gorilla gorilla gorilla
+<p align="center">
+  <img src="images/INS_cds_blast.png" alt="INS CDS BLAST" width="800">
+</p>
 
+<p align="center"><em>Figure 1. BLAST search using the human INS coding sequence.</em></p>
 ---
 
 ## Step 3: Interpret Your Results
