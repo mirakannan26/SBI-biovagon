@@ -61,8 +61,12 @@ Click on 'Transcripts' or 'Exons' to view the gene structure. Complete the table
 Above table is for transcript
 
 **ENST00000381330.5**
+Which is INS-202 out of the 4 protein coding transcripts of INS or insulin gene.
 <p align="center">
   <img src="images/ensembl_gene_struc_ENST00000381330.5.png" width="900">
+</p>
+<p align="center">
+  <img src="images/transcripts_of_INS_gene.png" width="900">
 </p>
 # Exercise 2: UCSC Genome Browser Visualization
 
