@@ -61,6 +61,9 @@ Click on 'Transcripts' or 'Exons' to view the gene structure. Complete the table
 Above table is for transcript
 
 **ENST00000381330.5**
+<p align="center">
+  <img src="images/ensembl_gene_struc_ENST00000381330.5.png" width="900">
+</p>
 # Exercise 2: UCSC Genome Browser Visualization
 
 **Objective:** Visualize insulin gene in genomic context and identify neighboring genes.
