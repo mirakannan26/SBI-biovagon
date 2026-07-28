@@ -39,7 +39,12 @@ INS_HUMAN – entry name, Insulin – full name
 Open the 'Sequence' and 'Family & Domains' sections. Fill in the table below:
 
 (viewed in PTM/processing tab)
-
+<p align="center">
+  <img src="images/day4/P01308.png" width="900">
+</p>
+<p align="center">
+  <img src="images/day4/PTM_processing.png" width="900">
+</p>
 | Feature | Value |
 |---------|-------|
 | Sequence length (aa) | 110 |
