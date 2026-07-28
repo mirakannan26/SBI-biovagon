@@ -124,7 +124,6 @@ In your UniProt entry, check the 'Pathology & Biotech' or 'Disease & Variants' s
 
 ### Q1: Name one disease-associated variant listed for insulin. Where in the protein structure does it occur, and what effect might it have on function?
 
-```
 ---
 
 # Exercise 5: Connecting Days 1-4
@@ -138,5 +137,7 @@ From Day 1 blast analysis it was clear that humans share ancestry with gorillas 
 # Reflection
 
 ### Why is it important to study a protein's 3D structure, and not just its amino acid sequence, in order to understand its function?
+
+3D structure of a protein can help visualise its domains(number, region..) and can help identify the secondary structure it is present in (sheet/helix) unlike just studying the sequence of amino acids which forms the primary structure. Based on the number of chains(polypeptides), the oligomeric form can be ascertained as monomer/dimer and so on. Studying these helps connect it to the protein’s function as in case of insulin, which forms a hexamer with 2 zinc ions with 3 separate dimers as units won’t have biological function if not stored as a dimer inside the body(stable form).
 
 3D structure of a protein can help visualise its domains(number, region..) and can help identify the secondary structure it is present in (sheet/helix) unlike just studying the sequence of amino acids which forms the primary structure. Based on the number of chains(polypeptides), the oligomeric form can be ascertained as monomer/dimer and so on. Studying these helps connect it to the protein’s function as in case of insulin, which forms a hexamer with 2 zinc ions with 3 separate dimers as units won’t have biological function if not stored as a dimer inside the body(stable form).
