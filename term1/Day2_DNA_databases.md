@@ -82,13 +82,22 @@ Which is INS-202 out of the 4 protein coding transcripts of INS or insulin gene.
 **Q1:** What gene is located immediately upstream (left) of insulin? (Use the gene name or symbol)
 
 **Answer:** INS-IGF2
+<h3>INS-IGF2</h3>
 
+<p align="center">
+  <img src="images/INS-IGF2.png" width="900">
+</p>
 ---
 
 **Q2:** What gene is located immediately downstream (right) of insulin?
 
 **Answer:** TH gene
-
+<p align="center">
+  <img src="images/TH.png" width="900">
+</p>
+<p align="center">
+  <img src="images/UCSC.png" width="900">
+</p>
 ---
 
 ## Part B: Exploring Genomic Features
@@ -101,7 +110,10 @@ Look at the various tracks displayed in UCSC. You should see:
 
 **Q3:** Is the insulin gene region highly conserved across species? (Look at conservation track - high dark bar = conserved)
 
-**Answer:** Yes / No. Evidence: ________________yes________________________
+**Answer:** Yes  Evidence: 
+<p align="center">
+  <img src="images/with_conserved_regions.png" width="900">
+</p>
 
 # Exercise 3: Finding Variants in ClinVar
 
