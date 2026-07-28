@@ -29,9 +29,7 @@
 ____________________________________P01308___________________________________
 
 ### Q2: What is the protein's full name and entry name?
-
-INS_HUMAN – entry name, Insulin – full name
-
+ INS_HUMAN – entry name, Insulin – full name
 ---
 
 ## Part B: Sequence & Features
@@ -40,11 +38,12 @@ Open the 'Sequence' and 'Family & Domains' sections. Fill in the table below:
 
 (viewed in PTM/processing tab)
 <p align="center">
-  <img src="images/day4/P01308.png" width="900">
+  <img src="images/day4/P01308.png" width="400">
 </p>
 <p align="center">
-  <img src="images/day4/PTM_processing.png" width="900">
+  <img src="images/day4/PTM_processing.png" width="400">
 </p>
+
 | Feature | Value |
 |---------|-------|
 | Sequence length (aa) | 110 |
@@ -56,6 +55,9 @@ Open the 'Sequence' and 'Family & Domains' sections. Fill in the table below:
 
 Preproinsulin consists of peptide chains A,B and C. The C chain gets removed to form the mature insulin and becomes propeptide. A and B peptide chains are what the protein gets cleaved into. This processing is required for insulin’s normal functioning. In case of Hyperproinsulinemia, a certain variant is caused by a mutation which impairs post-translational cleavage of insulin which contributes to the disorder. Hence processing of insulin is vital.
 # Exercise 2: Protein Domains & Conserved Regions
+<p align="center">
+  <img src="images/day4/HPRI.png" width="400">
+</p>
 
 **Objective:** Identify functional domains in the insulin protein family using InterPro/Pfam.
 
@@ -68,7 +70,15 @@ Preproinsulin consists of peptide chains A,B and C. The C chain gets removed to 
 ### Q1: What is the name of the main conserved domain/family identified for insulin (e.g. Insulin-like superfamily)?
 
 ____________________________________Insulin_________________________________________
+<p align="center">
+  <img src="images/day4/interpro.png" width="900">
+</p>
 
+### Q2: What is the protein's full name and entry name?
+ INS_HUMAN – entry name, Insulin – full name
+ <p align="center">
+  <img src="images/day4/paralogs_interpro.png" width="400">
+</p>
 ---
 
 ## Part B: Compare Domain Architecture
@@ -103,6 +113,9 @@ pdb_00006rlx
 ### Q2: What experimental method was used, and what is the resolution (in Å)?
 
 X-RAY DIFFRACTION, 1.50 Å
+<p align="center">
+  <img src="images/day4/insulin_PDB.png" width="400">
+</p>
 
 ---
 
@@ -115,8 +128,16 @@ Use the 3D viewer to examine the structure. Fill in the table:
 | Number of protein chains | 2 : relaxin A chain (has A,C) and relaxin B chain(has B,D) |
 | Secondary structure types present (helix/sheet) | Both (majority is helix) |
 | Ligands/ions present (if any) | PCA |
+<p align="center">
+  <img src="images/day4/ligands.png" width="400">
+</p>
 | Oligomeric state (monomer/dimer/hexamer) | dimer |
-
+<p align="center">
+  <img src="images/day4/oligomeric_state.png" width="400">
+</p>
+<p align="center">
+  <img src="images/day4/protein_chain_relaxin.png" width="400">
+</p>
 ### Q3: How does insulin's quaternary structure (e.g. hexamer with zinc) relate to how it is stored and released in the body?
 
 Inside the high-zinc, acidic environment of beta pancreatic cell secretory granules, six insulin molecules cluster around two central zinc ions. This large, tightly packed hexamer structure protects the hormone from chemical degradation and prevents it from aggregating into toxic amyloid fibrils. When blood glucose rises, the hexamers are exocytosed into the bloodstream. Because the blood has a drastically lower zinc concentration and a neutral pH, the zinc instantly dissociates, causing the hexamer to break apart into dimers and then active monomers. These tiny monomers can diffuse easily through capillary walls to lower blood sugar.
@@ -128,7 +149,9 @@ Inside the high-zinc, acidic environment of beta pancreatic cell secretory granu
 In your UniProt entry, check the 'Pathology & Biotech' or 'Disease & Variants' section.
 
 ### Q1: Name one disease-associated variant listed for insulin. Where in the protein structure does it occur, and what effect might it have on function?
-
+<p align="center">
+  <img src="images/day4/disease_variants_ins.png" width="400">
+</p>
 ---
 
 # Exercise 5: Connecting Days 1-4
