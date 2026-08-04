@@ -17,25 +17,22 @@
 
 **Attach:** BAM QC output (flagstat or equivalent)
 
-For dataset **SRR031708**:  
-BAM QC_SRR031708
+For dataset SRR031708:  
+[BAM QC_SRR031708](https://mirakannan26.github.io/SBI-biovagon/term2/reports/BAM_QC_report/BAM%20QC_SRR031708.txt)
 
-For dataset **SRR031708**:  
-BAM QC_SRR031714
+For dataset SRR031714:  
+[BAM QC_SRR031714](https://mirakannan26.github.io/SBI-biovagon/term2/reports/BAM_QC_report/BAM%20QC_SRR031714.txt)
 
-For dataset **SRR031708**:  
-BAM QC_SRR031716
+For dataset SRR031716:  
+[BAM QC_SRR031716](https://mirakannan26.github.io/SBI-biovagon/term2/reports/BAM_QC_report/BAM%20QC_SRR031716.txt)
 
-For dataset **SRR031708**:  
-BAM QC_SRR031718
+For dataset SRR031718:  
+[BAM QC_SRR031718](https://mirakannan26.github.io/SBI-biovagon/term2/reports/BAM_QC_report/BAM%20QC_SRR031718.txt)
 
 | Field | Entry |
 |-------|-------|
 | Tool(s) used | Samtools flagstat |
 | Observations | |
-
-| Sample | Observation |
-|--------|-------------|
 | SRR031708 | Total reads: 7,652,014<br>Mapped reads: 5,709,817 (74.62%)<br>Primary mapped reads: 3,751,964 (65.89%)<br>Secondary alignments: 1,957,853 |
 | SRR031714 | Total reads: 14900305<br>Mapped reads: 13930457 (93.49%)<br>Primary mapped reads: 9615107 (90.84%)<br>Secondary alignments: 4315350 |
 | SRR031716 | Total reads: 15461466<br>Mapped reads: 13714190 (88.70%)<br>Primary mapped reads: 10064614 (85.21%)<br>Secondary alignments: 3649576 |
