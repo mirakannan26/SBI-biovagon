@@ -4,10 +4,10 @@ Re-run the quality control tool used in Stage 3 on the trimmed FASTQ files to co
 
 **Attach:** post-trimming FastQC report
 
-For dataset **SRR031708**: SRR031708_fastqc_report  
-For dataset **SRR031714**: SRR031714_fastqc_report  
-For dataset **SRR031716**: SRR031716_fastqc_report  
-For dataset **SRR031718**: SRR031718_fastqc_report
+For dataset **SRR031708**: [SRR031708](https://mirakannan26.github.io/SBI-biovagon/term2/reports/FASTQC_reports/SRR031708_fastqc_report_trimmed.html)  
+For dataset **SRR031714**: [SRR031714](https://mirakannan26.github.io/SBI-biovagon/term2/reports/FASTQC_reports/SRR031714_fastqc_report_trimmed.html)   
+For dataset **SRR031716**: [SRR031716](https://mirakannan26.github.io/SBI-biovagon/term2/reports/FASTQC_reports/SRR031716_fastqc_report_trimmed.html)    
+For dataset **SRR031718**: [SRR031718](https://mirakannan26.github.io/SBI-biovagon/term2/reports/FASTQC_reports/SRR031718_fastqc_report_trimmed.html)  
 
 | Metric | Dataset | Before Trimming | After Trimming |
 |--------|---------|----------------:|---------------:|
