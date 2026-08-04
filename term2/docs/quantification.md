@@ -17,7 +17,7 @@
 
 After obtaining outputs for featurecount, counts data was downloaded:
 
-[SRR031708_count]([https://mirakannan26.github.io/SBI-biovagon/term2/reports/feature_counts_data/SRR031708.csv](https://mirakannan26.github.io/SBI-biovagon/term2/reports/feature_counts_data/sheet001.html))         [SRR031714_count](https://mirakannan26.github.io/SBI-biovagon/term2/reports/feature_counts_data/SRR031714.csv)
+[SRR031708_count](https://mirakannan26.github.io/SBI-biovagon/term2/reports/feature_counts_data/sheet001.html)         [SRR031714_count](https://mirakannan26.github.io/SBI-biovagon/term2/reports/feature_counts_data/SRR031714.csv)
 
 [SRR031716_count](https://mirakannan26.github.io/SBI-biovagon/term2/reports/feature_counts_data/SRR031716.csv)         [SRR031718_count](https://mirakannan26.github.io/SBI-biovagon/term2/reports/feature_counts_data/SRR031718.csv)
 
