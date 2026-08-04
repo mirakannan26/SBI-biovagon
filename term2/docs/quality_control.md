@@ -33,10 +33,10 @@ These FASTQ files were uploaded into **Galaxy**, and the **FastQC** tool was exe
 
 ## FastQC Reports
 
-- `SRR031708_fastq_fastqc`
-- `SRR031714_fastq_fastqc`
-- `SRR031716_fastq_fastqc`
-- `SRR031718_fastq_fastqc`
+- [SRR031708](https://mirakannan26.github.io/SBI-biovagon/term2/reports/FASTQC_reports/SRR031708_fastq_fastqc.html)
+- [SRR031714](https://mirakannan26.github.io/SBI-biovagon/term2/reports/FASTQC_reports/SRR031714_fastq_fastqc.html)
+- [SRR031716](https://mirakannan26.github.io/SBI-biovagon/term2/reports/FASTQC_reports/SRR031716_fastq_fastqc.html)
+- [SRR031718](https://mirakannan26.github.io/SBI-biovagon/term2/reports/FASTQC_reports/SRR031718_fastq_fastqc.html)
 
 ## Quality Control Summary
 
