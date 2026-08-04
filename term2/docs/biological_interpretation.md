@@ -19,11 +19,19 @@ You already have a count/abundance table from Stage 8, listing every gene and ho
 
 For dataset SRR031708:
 
+![](../images/top_expressed_genes/top%20expression%20for%20SRR031708.png)
+
 For dataset SRR031714:
+
+![](../images/top_expressed_genes/top%20expression%20for%20SRR031714.png)
 
 For dataset SRR031716:
 
+![](../images/top_expressed_genes/top%20expression%20for%20SRR031716.png)
+
 For dataset SRR031718:
+
+![](../images/top_expressed_genes/top%20expression%20for%20SRR031718.png)
 
 | Field | Entry |
 |-------|-------|
@@ -63,6 +71,7 @@ Use the same annotation tool from Stage 9.
 Since g profiler did not send output file from Galaxy, the g:profiler website was tried out but it too failed to give results. Hence Gene Ontology (GO) annotations were checked for in FlyBase.
 
 Eg: for dataset SRR031708
+![](../images/top_expressed_genes/GO%20annotation.png)
 
 | Field | Entry |
 |-------|-------|
