@@ -19,9 +19,9 @@
 ### Attach
 - Reference genome download confirmation.
 
-  <img src="../images/ref_genome_downloads/ref genome download.png" alt="Reference Genome Download" width="800">
+  <img src="../images/ref_genome_downloads/ref genome download.png" alt="Reference Genome Download" width="600">
   
-  <img src="../images/ref_genome_downloads/ref genome in galaxy.png" alt="Reference Genome in Galaxy" width="800">
+  <img src="../images/ref_genome_downloads/ref genome in galaxy.png" alt="Reference Genome in Galaxy" width="500">
 
 ### Uploaded in Galaxy
 
