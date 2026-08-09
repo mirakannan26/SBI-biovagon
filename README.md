@@ -123,7 +123,7 @@ Studying protein structure provides insights beyond the amino-acid sequence by r
 
 After the use of basic tools, a bioinformatic analysis on the resistance developed to the Gefitinib drug administered to patients having Non-small cell lung cancer, affected by a mutation in the gene synthesizing the Epidermal Growth Factor Receptor(EGFR) was performed as a project, utilizing the tools learned, with a few others.
 
-### NGS Analysis
+## NGS Analysis
 
 A complete RNA-Seq analysis workflow was carried out using **Galaxy**, starting from raw sequencing data and progressing through quality control, trimming, alignment, quantification, annotation and biological interpretation.
 
@@ -165,7 +165,7 @@ FeatureCounts identified *9,737–10,325 genes with nonzero counts* across the f
 
 The top expressed gene in three samples, eEF1alpha1, is involved in *translation elongation and protein biosynthesis*. SRR031718 showed mitochondrial large ribosomal RNA as its top expressed feature, associated with *mitochondrial translation and ribosomal function*.
 
-### Artificial Intelligence and Machine Learning in Biology
+## Artificial Intelligence and Machine Learning in Biology
 
 Different models trained to analyse biological data using machine learning
 
