@@ -1,10 +1,11 @@
 # SBI-biovagon
 
-The topics covered during the 15-day bioinformatic internship were:
+During the course of the internship, the core topics learnt were 
+1. Databases (folder : Learning databases)
+2. NGS Analysis
+3. AI and ML for biology
 
 ## Databases
-
-Inside the folder named :**"Learning Databases"** 
 
 ### BLAST – Insulin Sequence Homology Analysis
 
@@ -19,40 +20,40 @@ Inside the folder named :**"Learning Databases"**
 
 Exploration of the **human insulin (INS) gene** using genomic and variant databases. The exercises covered gene structure, genomic visualization, conservation and disease-associated variants.
 
-#### Tools & Databases
+**Tools & Databases**
 
-- **Ensembl** – Gene structure, transcripts and genomic coordinates
-- **UCSC Genome Browser** – Genomic context and conservation
-- **ClinVar** – Disease-associated variants
+- *Ensembl* – Gene structure, transcripts and genomic coordinates
+- *UCSC Genome Browser* – Genomic context and conservation
+- *ClinVar* – Disease-associated variants
 
-#### 1. Ensembl
+**1. Ensembl**
 
 Retrieved genomic information for the human INS gene:
 
-- **Ensembl ID:** `ENSG00000254647`
-- **Chromosome:** 11
-- **Strand:** -
-- **Coordinates:** 2,159,779–2,161,221
-- **Transcript:** `ENST00000381330.5` (INS-202)
+- *Ensembl ID:* `ENSG00000254647`
+- *Chromosome:* 11
+- *Strand:* -
+- *Coordinates:* 2,159,779–2,161,221
+- *Transcript:* `ENST00000381330.5` (INS-202)
 
-#### 2. UCSC Genome Browser
+**2. UCSC Genome Browser**
 
-Visualized INS using the **GRCh38/hg38** assembly and examined its genomic neighborhood.
+Visualized INS using the *GRCh38/hg38* assembly and examined its genomic neighborhood.
 
-- **Upstream:** `INS-IGF2`
-- **Downstream:** `TH`
+- *Upstream:* `INS-IGF2`
+- *Downstream:* `TH`
 - Examined sequence conservation using the PhastCons track.
 
-#### 3. ClinVar
+**3. ClinVar**
 
 Investigated pathogenic insulin variants.
 
-- **Variant:** `c.361G>A`
-- **Disease:** Coronary artery disorder
-- **Type:** Missense
-- **Protein change:** `D121N`
+- *Variant:* `c.361G>A`
+- *Disease:* Coronary artery disorder
+- *Type:* Missense
+- *Protein change:* `D121N`
 
-#### Key Learning Outcomes
+**Key Learning Outcomes**
 
 - Navigating Ensembl and UCSC Genome Browser
 - Interpreting genomic coordinates, transcripts and exons
@@ -60,7 +61,7 @@ Investigated pathogenic insulin variants.
 - Identifying disease-associated variants using ClinVar
 - Connecting genomic organization with biological function
 
-#### Reflection
+**Reflection**
 
 The exercise demonstrated how BLAST and UCSC provide complementary perspectives: BLAST focuses on sequence similarity, while UCSC enables visualization of genomic context and comparative genomic features.
 
@@ -71,44 +72,44 @@ The exercise demonstrated how BLAST and UCSC provide complementary perspectives:
 
 ### Protein Databases
 
-**Human insulin protein** was analysed using UniProt, InterPro and the Protein Data Bank (PDB), focusing on protein annotation, conserved domains, structure and function.
+Human insulin protein was analysed using UniProt, InterPro and the Protein Data Bank (PDB), focusing on protein annotation, conserved domains, structure and function.
 
-#### Tools & Databases
+**Tools & Databases**
 
-- **UniProt** – Protein sequence, processing and annotations
-- **InterPro / Pfam** – Conserved domains and protein families
-- **PDB** – 3D protein structures
+- *UniProt* – Protein sequence, processing and annotations
+- *InterPro / Pfam* – Conserved domains and protein families
+- *PDB* – 3D protein structures
 
-#### 1. UniProt
+**1. UniProt**
 
 Explored the reviewed human insulin entry:
 
-- **Accession:** `P01308`
-- **Entry:** `INS_HUMAN`
-- **Length:** 110 aa
-- **Signal peptide:** Residues 1–24
-- **Processed chains:** A and B
-- **Disulfide bonds:** 3
+- *Accession:* `P01308`
+- *Entry:* `INS_HUMAN`
+- *Length:* 110 aa
+- *Signal peptide:* Residues 1–24
+- *Processed chains:* A and B
+- *Disulfide bonds:* 3
 
 The processing of preproinsulin into mature insulin was also examined.
 
-#### 2. Interpro
+**2. Interpro**
 
-Used InterPro to examine insulin's conserved family and compare it with **IGF2**. Both were associated with the insulin family and shared conserved features.
+Used InterPro to examine insulin's conserved family and compare it with IGF2. Both were associated with the insulin family and shared conserved features.
 
-### 3. PDB
+**3. PDB**
 
 Explored a human insulin structure in PDB:
 
-- **PDB ID:** `6RLX`
-- **Method:** X-ray diffraction
-- **Resolution:** 1.50 Å
-- **Secondary structures:** α-helices and β-sheets
-- **Oligomeric state examined:** Dimer
+- *PDB ID:* `6RLX`
+- *Method:* X-ray diffraction
+- *Resolution:* 1.50 Å
+- *Secondary structures:* α-helices and β-sheets
+- *Oligomeric state examined:* Dimer
 
 The relationship between insulin's zinc-stabilized hexameric storage form and its release as active monomers was also studied.
 
-## Key Learning Outcomes
+**Key Learning Outcomes**
 
 - Interpreting UniProt protein records
 - Understanding protein processing and conserved domains
@@ -116,30 +117,30 @@ The relationship between insulin's zinc-stabilized hexameric storage form and it
 - Relating protein structure and oligomerization to function
 - Connecting sequence variants with disease
 
-## Reflection
+**Reflection**
 
 Studying protein structure provides insights beyond the amino-acid sequence by revealing domains, secondary structures, chains and oligomeric states that help explain biological function.
 
 After the use of basic tools, a bioinformatic analysis on the resistance developed to the Gefitinib drug administered to patients having Non-small cell lung cancer, affected by a mutation in the gene synthesizing the Epidermal Growth Factor Receptor(EGFR) was performed as a project, utilizing the tools learned, with a few others.
 
-### NGS
+### NGS Analysis
 
 A complete RNA-Seq analysis workflow was carried out using **Galaxy**, starting from raw sequencing data and progressing through quality control, trimming, alignment, quantification, annotation and biological interpretation.
 
-## Dataset
+**Dataset**
 
-- **Organism:** Drosophila melanogaster
-- **GEO Accessions:** GSM461176, GSM461177, GSM461178, GSM461179
-- **SRA Samples:** SRR031708, SRR031714, SRR031716, SRR031718
-- **Parent Series:** GSE18508
-- **Reference:** NCBI RefSeq, GCF_000001215.4
-- **Annotation:** GTF
+- *Organism:* Drosophila melanogaster
+- *GEO Accessions:* GSM461176, GSM461177, GSM461178, GSM461179
+- *SRA Samples:* SRR031708, SRR031714, SRR031716, SRR031718
+- *Parent Series:* GSE18508
+- *Reference:* NCBI RefSeq, GCF_000001215.4
+- *Annotation:* GTF
 
-#### Tools Used
+**Tools Used**
 
-**Galaxy | GEO | SRA | FastQC | Fastp | HISAT2 | Samtools | featureCounts | UniProt | FlyBase**
+Galaxy | GEO | SRA | FastQC | Fastp | HISAT2 | Samtools | featureCounts | UniProt | FlyBase
 
-#### Next Generation Sequencing(NGS) pipeline :
+**Next Generation Sequencing(NGS) pipeline :**
 
 - Downloading datasets using SRA(NCBI)
 - Checking quality of dataset using FASTQC tool with the quality metrics anaysis
@@ -154,15 +155,15 @@ A complete RNA-Seq analysis workflow was carried out using **Galaxy**, starting 
 - FlyBase was used to obtain GO annotations for the top expressed genes
 - Biological interpretation was performed based on the function and GO annotations of the top expressed genes
 
-#### Key Results
+**Key Results**
 
-FastQC showed a median quality of **Q30** across the samples. After trimming, read retention ranged from **97.56% to 99.84%**. HISAT2 alignment rates ranged from **65.89% to 90.84%**, with uniquely mapped reads ranging from **56.59% to 79.76%**.
+FastQC showed a median quality of *Q30* across the samples. After trimming, read retention ranged from *97.56% to 99.84%*. HISAT2 alignment rates ranged from *65.89% to 90.84%*, with uniquely mapped reads ranging from *56.59% to 79.76%*.
 
-FeatureCounts identified **9,737–10,325 genes with nonzero counts** across the four samples. The most highly expressed gene was **Dmel_CG8280 (eEF1alpha1)** in three samples, while **Dmel_CR34094 (mitochondrial large ribosomal RNA)** was highest in SRR031718.
+FeatureCounts identified *9,737–10,325 genes with nonzero counts* across the four samples. The most highly expressed gene was *Dmel_CG8280 (eEF1alpha1)* in three samples, while *Dmel_CR34094 (mitochondrial large ribosomal RNA)* was highest in SRR031718.
 
-#### Biological Interpretation
+**Biological Interpretation**
 
-The top expressed gene in three samples, eEF1alpha1, is involved in **translation elongation and protein biosynthesis**. SRR031718 showed mitochondrial large ribosomal RNA as its top expressed feature, associated with **mitochondrial translation and ribosomal function**.
+The top expressed gene in three samples, eEF1alpha1, is involved in *translation elongation and protein biosynthesis*. SRR031718 showed mitochondrial large ribosomal RNA as its top expressed feature, associated with *mitochondrial translation and ribosomal function*.
 
 ### Artificial Intelligence and Machine Learning in Biology
 
