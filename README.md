@@ -4,9 +4,7 @@ The topics covered during the 15-day bioinformatic internship were:
 
 ## Databases
 
-A folder named **"Learning Databases"** was created to organize and document the work carried out while learning about different biological databases and their applications.
-
-DNA databases - NCBI, UCSC Genome Browser, Ensembl, Clinvar
+Inside the folder named :**"Learning Databases"** 
 
 ### BLAST – Insulin Sequence Homology Analysis
 
