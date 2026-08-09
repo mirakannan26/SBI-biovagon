@@ -2,7 +2,7 @@
 
 The topics covered during the 15-day bioinformatic internship were:
 
-## Learning Databases
+## Databases
 
 A folder named **"Learning Databases"** was created to organize and document the work carried out while learning about different biological databases and their applications.
 
