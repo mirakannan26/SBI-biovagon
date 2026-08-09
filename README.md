@@ -62,7 +62,7 @@ Investigated pathogenic insulin variants.
 - Identifying disease-associated variants using ClinVar
 - Connecting genomic organization with biological function
 
-## Reflection
+#### Reflection
 
 The exercise demonstrated how BLAST and UCSC provide complementary perspectives: BLAST focuses on sequence similarity, while UCSC enables visualization of genomic context and comparative genomic features.
 
