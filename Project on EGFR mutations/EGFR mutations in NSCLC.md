@@ -121,7 +121,9 @@ By analysing the SNP rs4947492 using the given tools, we can find out if the SNP
 **Expected output –**
 
 **Using dbSNP:**
-
+<p align="center">
+  <img src="./images/dbSNP.png" alt="dbSNP" width="400" height="400">
+</p>
 **Findings –**
 
 **Chomosomal location –**
