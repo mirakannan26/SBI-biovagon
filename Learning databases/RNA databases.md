@@ -20,8 +20,8 @@
  <h3>Visualising Gene of RNA</h3>
 <img src="images/RNA%20database/visualising%20gene%20of%20RNA.png"
      alt="Visualising gene of RNA"
-     width="800"
-     height="500">
+     width="600"
+     height="400">
 ## Part B: Explore the RNA Record
 
 | Feature | Observation |
@@ -45,5 +45,5 @@
 <h3>Expression Profile for RNA</h3>
 <img src="images/RNA%20database/expression%20profile%20for%20RNA.png"
      alt="Expression profile for RNA"
-     width="800"
-     height="500">
+     width="600"
+     height="400">
