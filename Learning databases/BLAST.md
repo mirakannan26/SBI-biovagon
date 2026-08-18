@@ -89,10 +89,9 @@ AATGCTGTACCAGCATCTGCTCCCTCTACCAGCTGGAGAACTACTGCAACTAG
 
 **Answer:** Gorilla gorilla gorilla
 <p align="center">
-  <img src="images/INS_cds_blast.png" alt="INS CDS BLAST" width="800">
+  <img src="./images/blast/INS_cds_blast.png" alt="INS CDS BLAST result" width="700">
 </p>
-
-<p align="center"><em>Figure 1. BLAST search using the human INS coding sequence.</em></p>
+Figure 1. BLAST search using the human INS coding sequence.</em></p>
 ---
 
 ## Step 3: Interpret Your Results
