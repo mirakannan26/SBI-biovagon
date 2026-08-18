@@ -65,6 +65,40 @@ Investigated pathogenic insulin variants.
 
 The exercise demonstrated how BLAST and UCSC provide complementary perspectives: BLAST focuses on sequence similarity, while UCSC enables visualization of genomic context and comparative genomic features.
 
+## RNA Database
+
+The purpose of this exercise was to explore **RNAcentral** and understand its role in accessing, investigating, and visualising information related to RNA molecules and genes.
+
+The exercise involved examining:
+
+- RNA sequence and annotation information
+- RNA and gene-related database records
+- Links between information from different RNA resources
+- RNA expression profiles
+- Gene and RNA visualisation tools
+
+## Learning Outcomes
+
+The exploration of RNAcentral demonstrated the value of centralized databases for accessing information originating from multiple specialised resources.
+
+The exercise provided an understanding of:
+
+- RNA database organisation
+- RNA sequence and annotation retrieval
+- Gene and RNA expression information
+- Biological data visualisation
+- Integration of information from multiple databases
+
+## Reflection
+
+The exploration of RNAcentral demonstrated the importance of biological databases in organising and interpreting large volumes of biological information.
+
+A key observation was that RNA databases can integrate different forms of information rather than functioning solely as sequence repositories. The availability of annotations, expression profiles, cross-references, and visualisation tools provides a more comprehensive view of RNA and gene-related data.
+
+The examination of expression profiles also demonstrated how database resources can assist in identifying and interpreting patterns in biological data. Visualisation tools further support the interpretation of complex datasets by presenting biological information in an accessible format.
+
+Overall, the exercise provided practical exposure to RNA databases, RNA information retrieval, gene expression profiles, database integration, and biological data visualisation.
+
 ### Protein Databases
 
 Human insulin protein was analysed using UniProt, InterPro and the Protein Data Bank (PDB), focusing on protein annotation, conserved domains, structure and function.
