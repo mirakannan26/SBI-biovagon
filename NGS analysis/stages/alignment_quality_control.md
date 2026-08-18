@@ -18,16 +18,16 @@
 **Attach:** BAM QC output (flagstat or equivalent)
 
 For dataset SRR031708:  
-[BAM QC_SRR031708](https://mirakannan26.github.io/SBI-biovagon/term2/reports/BAM_QC_report/BAM%20QC_SRR031708.txt)
+[BAM QC_SRR031708](https://mirakannan26.github.io/SBI-biovagon/NGS%20analysis/reports/BAM_QC_report/BAM%20QC_SRR031708.txt)
 
 For dataset SRR031714:  
-[BAM QC_SRR031714](https://mirakannan26.github.io/SBI-biovagon/term2/reports/BAM_QC_report/BAM%20QC_SRR031714.txt)
+[BAM QC_SRR031714](https://mirakannan26.github.io/SBI-biovagon/NGS%20analysis/reports/BAM_QC_report/BAM%20QC_SRR031714.txt)
 
 For dataset SRR031716:  
-[BAM QC_SRR031716](https://mirakannan26.github.io/SBI-biovagon/term2/reports/BAM_QC_report/BAM%20QC_SRR031716.txt)
+[BAM QC_SRR031716](https://mirakannan26.github.io/SBI-biovagon/NGS%20analysis/reports/BAM_QC_report/BAM%20QC_SRR031716.txt)
 
 For dataset SRR031718:  
-[BAM QC_SRR031718](https://mirakannan26.github.io/SBI-biovagon/term2/reports/BAM_QC_report/BAM%20QC_SRR031718.txt)
+[BAM QC_SRR031718](https://mirakannan26.github.io/SBI-biovagon/NGS%20analysis/reports/BAM_QC_report/BAM%20QC_SRR031718.txt)
 
 | Field | Entry |
 |-------|-------|
