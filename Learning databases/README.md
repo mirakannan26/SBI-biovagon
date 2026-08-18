@@ -24,6 +24,31 @@ This exercise explored the genomic context of the human insulin (INS) gene by in
 - **UCSC Genome Browser:** Visualized the genomic neighborhood and conservation of the INS gene across species. 
 - **NCBI ClinVar:** Identified a pathogenic INS variant and interpreted its disease association and molecular consequence. 
 
+## RNAcentral – XIST Exercise
+
+### Data Used
+
+The exercise used **RNAcentral** to investigate **XIST (X-inactive specific transcript)** and explore the RNA-related information available for this transcript.
+
+### Information Available for XIST
+
+RNAcentral can provide information such as:
+
+- RNAcentral accession and RNA identifier
+- RNA sequence
+- RNA type and biological classification
+- Gene and organism information
+- Genome location and related annotations
+- Links to information from other specialist RNA databases
+- Expression and related biological information
+- Visualisation of RNA/gene-related data
+
+### Inference
+
+The exploration of XIST demonstrates how RNAcentral integrates information from multiple RNA resources into a single platform. The available annotations and cross-references provide a broader understanding of XIST beyond its sequence, while expression and visualisation data can support the interpretation of its biological role.
+
+Overall, RNAcentral serves as a useful starting point for retrieving and connecting **sequence, annotation, expression, and database-linked information** for XIST.
+
 ## Protein databases
 
 Human insulin (INS) protein was explored using major protein databases including **UniProt, InterPro/Pfam, and the Protein Data Bank (PDB)**.
