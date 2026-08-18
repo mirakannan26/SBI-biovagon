@@ -16,30 +16,6 @@ Day 5 - Bioinformatics Internship 2026
 
 # Exercise 1: Define Your Research Question
 
-Choose ONE of these (or define your own):
-
-**OPTION A: Mutation Hotspots**
-
-Question: Which amino acid positions in EGFR are most frequently mutated in lung cancer? Why are these 'hotspots'?
-
-Approach: BLAST (find EGFR homologs) → InterPro (domains) → ClinVar (cancer mutations) → PDB (structure)
-
-**OPTION B: Structural Impact**
-
-Question: How do L858R and exon 19 deletions alter EGFR kinase domain structure? Why do these mutations cause hyperactivation?
-
-Approach: PDB structure → InterPro domains → mutational impact prediction
-
-**OPTION C: Drug Resistance**
-
-Question: Why do EGFR-mutant tumors develop resistance to gefitinib? Which secondary mutations emerge and why?
-
-Approach: Literature review (GEO expression) → ClinVar (resistance mutations) → UniProt (drug binding sites) → PDB
-
-**YOUR CHOICE:**
-
-I choose OPTION: C
-
 **My research question:**
 
 Why do EGFR-mutant tumors develop resistance to gefitinib? Which secondary mutations emerge and why?
