@@ -24,9 +24,6 @@ This exercise explored the genomic context of the human insulin (INS) gene by in
 - **UCSC Genome Browser:** Visualized the genomic neighborhood and conservation of the INS gene across species. 
 - **NCBI ClinVar:** Identified a pathogenic INS variant and interpreted its disease association and molecular consequence. 
 
-## RNA databases
-
-
 ## Protein databases
 
 Human insulin (INS) protein was explored using major protein databases including **UniProt, InterPro/Pfam, and the Protein Data Bank (PDB)**.
