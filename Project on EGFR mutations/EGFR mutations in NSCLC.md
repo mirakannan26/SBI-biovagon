@@ -145,9 +145,19 @@ It goes to prove the research gap of having inconsistent findings as different i
 **Using UCSC:**
 
 By searching chromosomal location obtained from dbSNP (with organism as Homo sapiens and GR38)
-
+<p align="center">
+  <img src="./images/UCSC%201.png" alt="UCSC 1" width="700">
+</p>
 By searching the SNP id: rs4947492,
-
+<p align="center">
+  <img src="./images/UCSC%20rs4947492.png" alt="UCSC rs4947492" width="700">
+</p>
+<p align="center">
+  <img src="./images/UCSC%20details.png" alt="UCSC Details" width="700">
+</p>
+<p align="center">
+  <img src="./images/UCSC%20further%20details.png" alt="UCSC Further Details" width="700">
+</p>
 **Findings –**
 
 It is a common mutation which is mainly biallelic in nature due to similar percentages in the presence of G and A bases as variants.
@@ -159,7 +169,9 @@ Since it is present only in the intron and not even the intron-exon boundary whi
 So it can be said that it does not have a direct contribution in gefitinib resistance.
 
 **Using GTEx portal:**
-
+<p align="center">
+  <img src="./images/GTEx.png" alt="GTEx" width="700" height="400">
+</p>
 **Findings-**
 
 The association of the SNP in adipose-subcutaneous tissue is very significant
@@ -171,6 +183,12 @@ NES values (-0.10 to -0.16) indicate a mild shift in expression, consistent with
 **Using GEO:**
 
 On searching “gefitinib resistance sensitive”:
+<p align="center">
+  <img src="./images/GEO.png" alt="GEO" width="700" height="400">
+</p>
+<p align="center">
+  <img src="./images/GEO%20samples.png" alt="GEO Samples" width="700" height="400">
+</p>
 
 GEO series number : GSE156054
 
@@ -181,11 +199,19 @@ HCC827 vs HCC827-GR — parental vs. Gefitinib-Resistant subline
 PC9 vs PC9-GR — parental vs. Gefitinib-Resistant subline
 
 H1975 vs H1975-OR — parental vs. Osimertinib-Resistant subline
+<p align="center">
+  <img src="./images/GEO%20sensitive%20and%20resistant.png" alt="GEO Sensitive and Resistant" width="700" height="400">
+</p>
 
 (highlighted ones are grouped for sensitive (green) and resistance(purple) for gefitinib)
 
 Using GEO2R,
-
+<p align="center">
+  <img src="./images/GEO2R%20table%20headings.png" alt="GEO2R Table Headings" width="700" height="400">
+</p>
+<p align="center">
+  <img src="./images/GEO2R%20EGFR%20entry.png" alt="GEO2R EGFR Entry" width="700" height="400">
+</p>
 Top 250 differentially expressed genes were found. Out of which, these gene EGFR had the following values :
 
 Due to small sample size of only 2 for sensitive and resistance each, statistically insignificant results were obtained for adj.p.val. But the logfc value shows a high fold change from grp2 to grp 1 (ie. From resistant to sensitive). This implies that EGFR expression seems to increase in the sensitive sample compared to the resistant sample. But this can be disregarded by concluding that the results were statistically insignificant and there is not enough clinical evidence/samples to support the hypothesis that the SNP rs4947492 contributes directly or indirectly to the resistance of gefitinib.
