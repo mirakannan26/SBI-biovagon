@@ -65,11 +65,6 @@ Investigated pathogenic insulin variants.
 
 The exercise demonstrated how BLAST and UCSC provide complementary perspectives: BLAST focuses on sequence similarity, while UCSC enables visualization of genomic context and comparative genomic features.
 
-### RNA Databases
-
-
-
-
 ### Protein Databases
 
 Human insulin protein was analysed using UniProt, InterPro and the Protein Data Bank (PDB), focusing on protein annotation, conserved domains, structure and function.
