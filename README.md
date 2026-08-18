@@ -77,7 +77,7 @@ The exercise involved examining:
 - RNA expression profiles
 - Gene and RNA visualisation tools
 
-## Learning Outcomes
+### Learning Outcomes
 
 The exploration of RNAcentral demonstrated the value of centralized databases for accessing information originating from multiple specialised resources.
 
@@ -89,7 +89,7 @@ The exercise provided an understanding of:
 - Biological data visualisation
 - Integration of information from multiple databases
 
-## Reflection
+### Reflection
 
 The exploration of RNAcentral demonstrated the importance of biological databases in organising and interpreting large volumes of biological information.
 
@@ -99,7 +99,7 @@ The examination of expression profiles also demonstrated how database resources 
 
 Overall, the exercise provided practical exposure to RNA databases, RNA information retrieval, gene expression profiles, database integration, and biological data visualisation.
 
-### Protein Databases
+## Protein Databases
 
 Human insulin protein was analysed using UniProt, InterPro and the Protein Data Bank (PDB), focusing on protein annotation, conserved domains, structure and function.
 
