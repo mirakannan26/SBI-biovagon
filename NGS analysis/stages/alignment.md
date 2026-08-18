@@ -16,7 +16,7 @@
 **Attach:** alignment summary output for each sample
 
 For dataset SRR031708:  
-[SRR031708_alignment_summary](https://mirakannan26.github.io/SBI-biovagon/NGS analysis/reports/alignment_summary/SRR031708_alignment_summary.txt)
+[SRR031708_alignment_summary](https://mirakannan26.github.io/SBI-biovagon/NGSanalysis/reports/alignment_summary/SRR031708_alignment_summary.txt)
 
 For dataset SRR031714:  
 [SRR031714_alignment_summary](https://mirakannan26.github.io/SBI-biovagon/term2/reports/alignment_summary/SRR031714_alignment_summary.txt)
