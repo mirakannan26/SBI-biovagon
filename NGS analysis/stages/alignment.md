@@ -16,16 +16,16 @@
 **Attach:** alignment summary output for each sample
 
 For dataset SRR031708:  
-[SRR031708_alignment_summary](https://mirakannan26.github.io/SBI-biovagon/NGSanalysis/reports/alignment_summary/SRR031708_alignment_summary.txt)
+[SRR031708_alignment_summary](https://mirakannan26.github.io/SBI-biovagon/NGS%analysis/reports/alignment_summary/SRR031708_alignment_summary.txt)
 
 For dataset SRR031714:  
-[SRR031714_alignment_summary](https://mirakannan26.github.io/SBI-biovagon/term2/reports/alignment_summary/SRR031714_alignment_summary.txt)
+[SRR031714_alignment_summary](https://mirakannan26.github.io/SBI-biovagon/NGS%analysis/reports/alignment_summary/SRR031714_alignment_summary.txt)
 
 For dataset SRR031716:  
-[SRR031716_alignment_summary](https://mirakannan26.github.io/SBI-biovagon/term2/reports/alignment_summary/SRR031716_alignment_summary.txt)
+[SRR031716_alignment_summary](https://mirakannan26.github.io/SBI-biovagon/NGS%analysis/reports/alignment_summary/SRR031716_alignment_summary.txt)
 
 For dataset SRR031718:  
-[SRR031718_alignment_summary](https://mirakannan26.github.io/SBI-biovagon/term2/reports/alignment_summary/SRR031718_alignment_summary.txt)
+[SRR031718_alignment_summary](https://mirakannan26.github.io/SBI-biovagon/NGS%analysis/reports/alignment_summary/SRR031718_alignment_summary.txt)
 
 | Sample | Tool Used | Overall Alignment % | Uniquely Mapped % |
 |--------|-----------|--------------------:|------------------:|
