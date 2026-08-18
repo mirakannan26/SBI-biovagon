@@ -28,7 +28,7 @@ Why do EGFR-mutant tumors develop resistance to gefitinib? Which secondary mutat
 
 EGFR - epidermal growth factor receptor
 
-**Paper 1 PMID/DOI:** 10.1016/j.gene.2012.12.087
+**Paper 1 PMID/DOI:** [10.1016/j.gene.2012.12.087](https://www.esmoopen.com/article/S2059-7029(20)32568-0/fulltext)
 
 **Name:** Mechanisms of resistance to EGFR-targeted drugs: lung cancer
 
@@ -36,7 +36,7 @@ EGFR - epidermal growth factor receptor
 
 Study of intrinsic resistance-causing mutations, though not fully understood, have 2 categories: the non classical sensitising mutations and the classical EGFR mutations which are deletion in exon 19 and L858R. The most common mutations of the EGFR gene are point mutations in exons 18,20 and 21 and indels in exon 19. Eight randomized controlled phase III trials have established that first- and second-generation EGFR-TKIs(eg: gefitinib) represent the preferred first-line treatment for patients with advanced NSCLC whose tumors harbor EGFR mutations, outperforming standard chemotherapy through significant improvements in both response rate and progression-free survival.
 
-**Paper 2 PMID/DOI:** https://doi.org/10.1155/2020/1973241Digital Object Identifier (DOI)
+**Paper 2 PMID/DOI:** [https://doi.org/10.1155/2020/1973241Digital Object Identifier (DOI)](https://doi.org/10.1155/2020/1973241)
 
 **Name:** EGFRPolymorphism and Survival of NSCLC Patients Treated with TKIs: A Systematic Review and Meta-Analysis
 
