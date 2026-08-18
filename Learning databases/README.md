@@ -28,3 +28,13 @@ This exercise explored the genomic context of the human insulin (INS) gene by in
 
 
 ## Protein databases
+
+Human insulin (INS) protein was explored using major protein databases including **UniProt, InterPro/Pfam, and the Protein Data Bank (PDB)**.
+
+The human insulin UniProt record was identified as **INS_HUMAN (P01308)**. The protein consists of 110 amino acids and is synthesised as a precursor that undergoes post-translational processing to form the mature insulin A and B chains, connected by disulfide bonds.
+
+InterPro was used to examine the conserved domains and protein family of insulin. Insulin was identified as part of the **insulin family/superfamily**, and comparison with related proteins such as IGF-2 showed conserved domain features, supporting their evolutionary relationship.
+
+The three-dimensional structure of human insulin was explored using the **Protein Data Bank (PDB)**. The selected structure, **PDB ID: 6RLX**, was determined using X-ray diffraction at a resolution of **1.50 Å**. The structure contains two protein chains and predominantly α-helical secondary structure, with PCA identified as a ligand.
+
+**Biological meaning behind results –** studying insulin across sequence, domain, and structural databases showed how its amino acid sequence gives rise to conserved domains and a specific three-dimensional structure. The disulfide bonds and chain organisation are important for maintaining its structure, while its oligomeric organisation is related to the storage and release of insulin. Protein databases therefore provide a connection between **sequence, structure, function, and disease-associated variation**.
