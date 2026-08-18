@@ -63,8 +63,3 @@ The GEO analysis showed an expression difference between gefitinib-sensitive and
 
 **Overall, rs4947492 has a plausible regulatory association with EGFR expression but insufficient evidence to establish it as a causal contributor to gefitinib resistance.** The findings therefore suggest that its previously reported association with TKI treatment outcome requires further experimental validation and larger clinical datasets before a definitive biological role can be assigned.
 
-## Project Workflow
-
-**dbSNP → UCSC Genome Browser → GTEx → GEO/GEO2R**
-
-**Variant identification → Genomic localization → Regulatory effect → Expression in sensitive/resistant cells → Functional interpretation**
