@@ -63,10 +63,10 @@ Above table is for transcript
 **ENST00000381330.5**
 Which is INS-202 out of the 4 protein coding transcripts of INS or insulin gene.
 <p align="center">
-  <img src="images/ensembl_gene_struc_ENST00000381330.5.png" width="900">
+  <img src="images/DNA%20databases/ensembl_gene_struc_ENST00000381330.5.png" width="900">
 </p>
 <p align="center">
-  <img src="images/transcripts_of_INS_gene.png" width="900">
+  <img src="images/DNA%20databases/transcripts_of_INS_gene.png" width="900">
 </p>
 # Exercise 2: UCSC Genome Browser Visualization
 
@@ -85,7 +85,7 @@ Which is INS-202 out of the 4 protein coding transcripts of INS or insulin gene.
 <h3>INS-IGF2</h3>
 
 <p align="center">
-  <img src="images/INS-IGF2.png" width="900">
+  <img src="images/DNA%20databases/INS-IGF2.png" width="900">
 </p>
 ---
 
@@ -93,10 +93,10 @@ Which is INS-202 out of the 4 protein coding transcripts of INS or insulin gene.
 
 **Answer:** TH gene
 <p align="center">
-  <img src="images/TH.png" width="900">
+  <img src="images/DNA%20databases/TH.png" width="900">
 </p>
 <p align="center">
-  <img src="images/UCSC.png" width="900">
+  <img src="images/DNA%20databases/UCSC.png" width="900">
 </p>
 ---
 
@@ -112,7 +112,7 @@ Look at the various tracks displayed in UCSC. You should see:
 
 **Answer:** Yes  Evidence: 
 <p align="center">
-  <img src="images/with_conserved_regions.png" width="900">
+  <img src="images/DNA%20databases/with_conserved_regions.png" width="900">
 </p>
 
 # Exercise 3: Finding Variants in ClinVar
