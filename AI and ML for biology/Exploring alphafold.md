@@ -99,6 +99,7 @@ Search for a SECOND protein from the table above. Compare its overall confidence
      alt="Haemoglobin 3D structure"
      width="400"
      height="400">
+
 The above protein is Hemoglobin subunit beta in humans and is majorly dark blue compared to the EGFR receptor which proves that this has a much better confidence.
 
 This is due to the reason of it being extensively extensively studied proteins. It is a small, compact, globular protein with a stable, well-defined three-dimensional structure composed mainly of α-helices. Its structure has been experimentally determined many times using X-ray crystallography and other techniques, providing abundant data that supports accurate prediction.
