@@ -34,7 +34,10 @@ The following proteins were provided as options for analysis:
 4. You are now looking at a 3D-predicted protein built entirely by AI, in minutes, not months.
 
 **Screenshot:** Attach a screenshot of your protein's 3D structure page.
-
+<img src="images/protein%203d%20struc%20page.png" 
+     alt="Protein 3D structure page"
+     width="800"
+     height="500">
 ---
 
 ## 3. AlphaFold Confidence Scores
@@ -57,7 +60,10 @@ Notice the structure is colored; this is not decoration. It's AlphaFold telling 
 | **Overall, would you TRUST this structure? (Y/N)** | Y |
 
 **Screenshot:** Attach a screenshot showing the color-coded confidence view.
-
+<img src="images/3d%20struc%20alphafold.png" 
+     alt="AlphaFold 3D protein structure"
+     width="800"
+     height="500">
 ---
 
 ## 4. Conventional Protein Structure Determination vs AlphaFold
@@ -89,7 +95,10 @@ No, since it is highly flexible and intrinsically disordered, it means that the 
 Search for a SECOND protein from the table above. Compare its overall confidence to your first one. Which protein did AlphaFold predict more confidently, and why do you think that might be? (Hint: think about how well-studied or how "normal-shaped" the protein might be.)
 
 ### Comparison Notes
-
+<img src="images/haemoglobin%203d.png" 
+     alt="Haemoglobin 3D structure"
+     width="800"
+     height="500">
 The above protein is Hemoglobin subunit beta in humans and is majorly dark blue compared to the EGFR receptor which proves that this has a much better confidence.
 
 This is due to the reason of it being extensively extensively studied proteins. It is a small, compact, globular protein with a stable, well-defined three-dimensional structure composed mainly of α-helices. Its structure has been experimentally determined many times using X-ray crystallography and other techniques, providing abundant data that supports accurate prediction.
