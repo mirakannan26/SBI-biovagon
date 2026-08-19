@@ -36,8 +36,8 @@ The following proteins were provided as options for analysis:
 **Screenshot:** Attach a screenshot of your protein's 3D structure page.
 <img src="images/protein%203d%20struc%20page.png" 
      alt="Protein 3D structure page"
-     width="800"
-     height="500">
+     width="400"
+     height="400">
 ---
 
 ## 3. AlphaFold Confidence Scores
@@ -62,8 +62,8 @@ Notice the structure is colored; this is not decoration. It's AlphaFold telling 
 **Screenshot:** Attach a screenshot showing the color-coded confidence view.
 <img src="images/3d%20struc%20alphafold.png" 
      alt="AlphaFold 3D protein structure"
-     width="800"
-     height="500">
+     width="400"
+     height="400">
 ---
 
 ## 4. Conventional Protein Structure Determination vs AlphaFold
@@ -97,8 +97,8 @@ Search for a SECOND protein from the table above. Compare its overall confidence
 ### Comparison Notes
 <img src="images/haemoglobin%203d.png" 
      alt="Haemoglobin 3D structure"
-     width="800"
-     height="500">
+     width="400"
+     height="400">
 The above protein is Hemoglobin subunit beta in humans and is majorly dark blue compared to the EGFR receptor which proves that this has a much better confidence.
 
 This is due to the reason of it being extensively extensively studied proteins. It is a small, compact, globular protein with a stable, well-defined three-dimensional structure composed mainly of α-helices. Its structure has been experimentally determined many times using X-ray crystallography and other techniques, providing abundant data that supports accurate prediction.
