@@ -1,7 +1,5 @@
 # Machine Learning in Biological Applications
 
-**Term 2, Day 12 – Biovagon Summer Bioinformatics Internship 2026**
-
 ## Biological Machine Learning Scenarios
 
 For each biological scenario, identify:
