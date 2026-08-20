@@ -26,8 +26,8 @@ A potential biomarker can be evaluated based on several characteristics, includi
 
 | Test | Question | Your Answer |
 |---|---|---|
-| **Measurable** | Can this gene's expression be reliably measured? | Y |
-| **Consistent** | Would you expect similar results if repeated? | Y |
+| **Measurable** | Can this gene's expression be reliably measured? | Yes |
+| **Consistent** | Would you expect similar results if repeated? | Yes |
 | **Specific** | Is this gene specific to a condition, or expressed everywhere? | It is present only in untreated samples (those not treated with dsRNA to indicated gene) |
 | **Actionable** | If detected, would it change what a doctor does? | If its ortholog is found in humans, it is an indication of the autosomal dominant intellectual developmental disorder 38. A possible action that would be taken after identificcation is neuroimaging to visualise the abnormalities in the brain. |
 
