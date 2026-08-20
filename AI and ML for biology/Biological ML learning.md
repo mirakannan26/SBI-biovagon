@@ -82,14 +82,3 @@ Supervised, regression. The model learns from known outcomes and predicts the nu
 
 ---
 
-## Application Scenario
-
-### My Case #7
-
-Predicting a patient's cancer progression from gene-expression data
-
-**Partner's answer to my case file**
-
-Unsupervised, Regression
-
----
