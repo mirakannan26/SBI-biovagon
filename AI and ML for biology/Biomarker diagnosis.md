@@ -1,8 +1,5 @@
 # Biomarker Analysis
 
-**Day 13 Activity: Evaluating a Gene as a Potential Diagnostic Biomarker**  
-**Term 2, Day 13 – Biovagon Summer Bioinformatics Internship 2026**
-
 ## Overview
 
 This activity evaluates whether a highly expressed gene has characteristics that could make it a useful biomarker. The analysis considers measurability, consistency, specificity, and potential clinical actionability.
