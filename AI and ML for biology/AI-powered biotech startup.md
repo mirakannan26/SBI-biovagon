@@ -64,4 +64,6 @@ Perturbation simulation can be used to simulate mutations and check their effect
 I choose to solve the issue of having different responses to a specific drug due to mutation/different ancestries.
 
 ```text
-[Baseline Omics Data] ──> [AI Matrix / Foundation Model] ──> [Virtual Perturbation] ──> [Predicted Cellular Outcome]
+[Baseline Omics Data] ──> [AI Matrix / Foundation Model] ──> [Virtual Perturbation] ──> [Predicted Cellular Outcome] 
+
+In this case, AI can be trained with the biological rules like those of biochemistry, evolutionary genetics and biophysics to make Biology-informed AI which can then use its predictive forecasting engine to develop simulations on the effects of the drug when there exists a mutation in the receptor it was designed to bind to since the proteins change their conformation according to the mutation but drugs do so too. Drugs usually travel in the bloodstream in their most relaxed state (lowest energy) but become their active form when they need to bind to the receptor. However if this energy is too high, it cannot bind. Current technology fails to account for intramolecular strain energy. Hence the technology that can be developed should be able to move the mutated receptor and the drug molecule in 4D and AI filters out any drug designs where the active shape requires too much energy to achieve. 
