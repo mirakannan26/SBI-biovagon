@@ -60,4 +60,3 @@ Predicted to enable GTPase activity and translation elongation factor activity. 
 
 This analysis demonstrates the initial evaluation involved in determining whether a gene could have potential biomarker relevance. The process involves examining gene expression, biological function, specificity, consistency, and possible clinical implications.
 
-**GitHub upload:** `results/day13_biomarker_hunt/checklist_and_pitch.md`
