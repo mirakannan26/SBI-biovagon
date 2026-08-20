@@ -1,7 +1,5 @@
 # AI-Powered Biotech Startup
 
-## Company
-
 ### Company name
 
 Isotopic
