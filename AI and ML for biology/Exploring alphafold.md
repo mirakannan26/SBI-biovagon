@@ -1,8 +1,5 @@
 # AlphaFold Explorer
 
-**Day 11 Activity — Biovagon Summer Bioinformatics Internship 2026**  
-**Term 2, Day 11**
-
 ## Objective
 
 DeepMind's AlphaFold cracked a 50-year-old biology puzzle: predicting a protein's 3D shape from its sequence alone. Today, you get to use the same database scientists around the world use every day.
