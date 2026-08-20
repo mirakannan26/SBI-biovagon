@@ -196,8 +196,28 @@ The top expressed gene in three samples, eEF1alpha1, is involved in *translation
 
 ## Artificial Intelligence and Machine Learning in Biology
 
-Different models trained to analyse biological data using machine learning
+This section explores the application of AI and machine learning approaches to protein structure analysis, biological data interpretation, biomarker evaluation, and biotechnology.
 
-Difference between AI, ML and Deep Learning
+## Tools Used
 
-Types of Machine learning - supervised, unsupervised and regression analysis
+- **AlphaFold DB / EMBL-EBI** – Protein structure prediction and pLDDT confidence analysis.
+- **Machine Learning Concepts** – Supervised learning, unsupervised learning, classification, regression, and clustering applied to biological scenarios.
+- **NCBI GEO** – Analysis of gene-expression data and identification of highly expressed genes.
+- **g:Profiler** – Functional interpretation of gene-expression results.
+- **AI-based Modelling Concepts** – Multi-omics integration, virtual perturbation, synthetic data generation, and structure-informed drug-response prediction.
+
+## Knowledge Gained / Learning Outcomes
+
+- Interpreted predicted protein structures and AlphaFold confidence scores.
+- Distinguished supervised and unsupervised learning and identified classification, regression, and clustering tasks in biological applications.
+- Evaluated genes as potential biomarkers based on measurability, consistency, specificity, and actionability.
+- Explored the integration of genomics, transcriptomics, proteomics, metabolomics, epigenomics, and structural information for AI-driven biotechnology.
+- Understood the role of virtual perturbation and computational modelling in studying mutation-dependent drug responses.
+
+## Key Results
+
+- **EGFR** was analysed using AlphaFold; its structure was predominantly high-confidence, with lower-confidence orange and yellow regions.
+- **Hemoglobin subunit beta** showed higher overall structural confidence than EGFR.
+- Biological machine-learning scenarios were classified into supervised/unsupervised learning and classification/regression/clustering.
+- **Dmel_CG8280** was identified as the top expressed gene for sample **SRR031708** and evaluated for potential biomarker relevance.
+- **Isotopic** was proposed as a multi-omics diagnostics concept integrating biological datasets with AI-based virtual perturbation to investigate differences in drug response.
