@@ -15,7 +15,7 @@ For each biological scenario, identify:
 
 **Supervised or Unsupervised? Classification, Regression, or Clustering? Why?**
 
-Unsupervised Learning, classification
+Unsupervised Learning, classification. The model is trained using tumour records labelled MALIGNANT or BENIGN, and predicts one of these categories for a new patient.
 
 ---
 
@@ -25,7 +25,7 @@ Unsupervised Learning, classification
 
 **Supervised or Unsupervised? Classification, Regression, or Clustering? Why?**
 
-Unsupervised, clustering
+Unsupervised, clustering. No diagnosis labels are provided, so the model identifies natural groupings among the gene-expression profiles.
 
 ---
 
@@ -35,7 +35,7 @@ Unsupervised, clustering
 
 **Supervised or Unsupervised? Classification, Regression, or Clustering? Why?**
 
-Supervised, regression
+Supervised, regression. The model uses labelled examples to predict a numerical value, the patient's exact age.
 
 ---
 
@@ -45,7 +45,7 @@ Supervised, regression
 
 **Supervised or Unsupervised? Classification, Regression, or Clustering? Why?**
 
-Unsupervised, clustering
+Unsupervised, clustering. There are no cell-type labels, so the model groups cells based on similarities in their RNA-seq expression patterns.
 
 ---
 
@@ -55,7 +55,7 @@ Unsupervised, clustering
 
 **Supervised or Unsupervised? Classification, Regression, or Clustering? Why?**
 
-Unsupervised, classification
+Unsupervised, classification. Previous drug trials are labelled SUCCESS or FAILURE, allowing the model to learn and predict the category for a new drug candidate.
 
 ---
 
@@ -65,7 +65,7 @@ Unsupervised, classification
 
 **Supervised or Unsupervised? Classification, Regression, or Clustering? Why?**
 
-Supervised, regression
+Supervised, regression. The model learns from known outcomes and predicts the numerical number of days a patient will stay in the hospital.
 
 ---
 
