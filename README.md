@@ -198,7 +198,7 @@ The top expressed gene in three samples, eEF1alpha1, is involved in *translation
 
 This section explores the application of AI and machine learning approaches to protein structure analysis, biological data interpretation, biomarker evaluation, and biotechnology.
 
-## Tools Used
+### Tools Used
 
 - **AlphaFold DB / EMBL-EBI** – Protein structure prediction and pLDDT confidence analysis.
 - **Machine Learning Concepts** – Supervised learning, unsupervised learning, classification, regression, and clustering applied to biological scenarios.
@@ -206,7 +206,7 @@ This section explores the application of AI and machine learning approaches to p
 - **g:Profiler** – Functional interpretation of gene-expression results.
 - **AI-based Modelling Concepts** – Multi-omics integration, virtual perturbation, synthetic data generation, and structure-informed drug-response prediction.
 
-## Knowledge Gained / Learning Outcomes
+### Knowledge Gained / Learning Outcomes
 
 - Interpreted predicted protein structures and AlphaFold confidence scores.
 - Distinguished supervised and unsupervised learning and identified classification, regression, and clustering tasks in biological applications.
@@ -214,7 +214,7 @@ This section explores the application of AI and machine learning approaches to p
 - Explored the integration of genomics, transcriptomics, proteomics, metabolomics, epigenomics, and structural information for AI-driven biotechnology.
 - Understood the role of virtual perturbation and computational modelling in studying mutation-dependent drug responses.
 
-## Key Results
+### Key Results
 
 - **EGFR** was analysed using AlphaFold; its structure was predominantly high-confidence, with lower-confidence orange and yellow regions.
 - **Hemoglobin subunit beta** showed higher overall structural confidence than EGFR.
